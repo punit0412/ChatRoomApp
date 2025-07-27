@@ -30,7 +30,20 @@ ChatRoomApp is a real-time chat application built with Android and Firebase, whe
 ---
 
 ## 📸 Screenshots
+### 🔐 Login Screen
+![Login](screenshots/login.png)
 
+### 📝 Signup Screen
+![Signup](screenshots/signUp.png)
+
+### 🏠 Create Room
+![Create Room](screenshots/create_room.png)
+
+### 💬 Chat Room
+![Chat Room](screenshots/chats.png)
+
+### 📋 Room List
+![Room List](screenshots/rooms.png)
 
 
 ---
